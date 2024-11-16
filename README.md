@@ -1,6 +1,6 @@
 # Modelarea variabilelor aleatoare continue folosind R
 
-Cerinte:
+Cerinte:\
 c) Verificarea dacă o funcție cu două variabile f(x,y),  introdusă de utilizator este densitate 
 de probabilitate.  \
 d) Crearea unui obiect de tip variabilă aleatoare continuă pornind de la o densitate de 
